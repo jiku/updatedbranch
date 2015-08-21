@@ -1,3 +1,3 @@
 # Branch on master
 
-When the master changes, the feature will appear.
+There's a change again. Just for the sake of it.
