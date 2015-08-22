@@ -1,3 +1,5 @@
 # Branch on master
 
-Master. Should only have this line.
+Master. Should only have this line.  
+Something commited change that differs from master since last merge of 'feature'...
+Some autostashed crap on top of committed change...
